@@ -4,7 +4,7 @@ My name is Andrey.
 
 - 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/andreybarmenkov](https://ru.hexlet.io/u/andreybarmenkov) 
 
-- 📫 My CV: [https://cv.hexlet.io/resumes/](https://cv.hexlet.io/resumes/)
+- 📫 My CV: [https://cv.hexlet.io/resumes/1318](https://cv.hexlet.io/resumes/1318)
 
 - Stack : React / Redux / NodeJS / HTML5 / CSS3
 
