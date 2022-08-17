@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Andrey.
+<h3>I've just finished studying JavaScript and Frontend at Hexlet online school and I'm looking for new career opportunities as a junior frontend developer.</h3>
+
+- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/andreybarmenkov](https://ru.hexlet.io/u/andreybarmenkov) 
+
+- 📫 My CV: [https://cv.hexlet.io/resumes/](https://cv.hexlet.io/resumes/)
+
+- Stack : React / Redux / NodeJS / HTML5 / CSS3
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abarmenkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **abarmenkov/abarmenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
